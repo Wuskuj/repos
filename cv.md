@@ -42,7 +42,6 @@ Beginning of training | The end of the training | University | Faculty | Special
 
 ## Knowledge of languages
 
-Studied English at school and University. Reading of technical documentation is higher then my spoken skills.
-English: A2
+Studied English at school and University. Reading of technical documentation is higher then my spoken skills. English level is A2.
 
 
