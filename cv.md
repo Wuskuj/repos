@@ -31,8 +31,8 @@ on regular basis and I wonder how it works inside ;)
 
 ## Code examples
 
-[URLSession - Network](https://github.com/Wuskuj/NetworkingURLSession)
-[TestProject](https://github.com/Wuskuj/TablePerson)
+* [URLSession - Network](https://github.com/Wuskuj/NetworkingURLSession)
+* [TestProject](https://github.com/Wuskuj/TablePerson)
 
 ## Education
 
