@@ -2,18 +2,21 @@
 
 ## Contact info
 
-* mobile (Telegram):           +375(29)5074129
-* skype:                                        fil_d1zel
-* email:                                         fil.bratov.98@mail.ru 
+* phone (Telegram): +375 (29) 507-41-29
+* email: fil.bratov.98@mail.ru
+* linkedin: https://www.linkedin.com/in/филипп-братов-0b247319b/
 
+
+## Experience
+
+Unfortunalety, I have no production experience in mobile development for now. 
 
 ## Summary
 
-
-
+I study at last course at PSU. I have self-studied iOS development for 6 months. I have chosen mobile development for my career because I use iOS devices
+on regular basis and I wonder how it works inside ;)
 
 ## Skills
-
 
 * Swift
 * Objective C
@@ -23,12 +26,13 @@
 * MVC
 * CoreData (little experience)
 * Git (basic knowledge)
-* C, C++, Java, C# (laboratory work at the University)
+* C, C++, Java, C# (the labs at the University)
 * OOP
 
 ## Code examples
 
 [URLSession - Network](https://github.com/Wuskuj/NetworkingURLSession)
+[TestProject](https://github.com/Wuskuj/TablePerson)
 
 ## Education
 
@@ -38,6 +42,7 @@ Beginning of training | The end of the training | University | Faculty | Special
 
 ## Knowledge of languages
 
-English-A2
+Studied English at school and University. Reading of technical documentation is higher then my spoken skills.
+English: A2
 
 
